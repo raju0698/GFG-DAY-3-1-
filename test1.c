@@ -7,13 +7,15 @@ int diff(int a, int b)
 {
     return a-b;
 }
-<<<<<<< HEAD
 int div(int a, int b)
 {
     return a/b;
-=======
+}
 int mul(int a, int b)
 {
     return a*b;
->>>>>>> b1
+}
+void test()
+{
+    printf("test fucntion");
 }
